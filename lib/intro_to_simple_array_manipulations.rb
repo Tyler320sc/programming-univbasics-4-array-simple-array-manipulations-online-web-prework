@@ -27,7 +27,7 @@ def using_concat(array, array2)
 end
 
 def using_insert(array)
-  array.insert[4]
+  array.insert["new element"]
 end
 
 # expect(@new_array[4]).to eq(@another_language)
