@@ -30,7 +30,7 @@ def using_insert(array, new_element)
   array.insert(4, new_element)
 end
 
-# expect(@new_array[4]).to eq(@another_language)
+
 
 
 
